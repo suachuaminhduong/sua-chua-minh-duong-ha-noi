@@ -1,0 +1,76 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HomeAndConstructionBusiness",
+  "@id": "https://suachuaminhduong.com/#organization",
+  "name": "Sửa Chữa Minh Dương",
+  "alternateName": "Minh Dương Fix",
+  "url": "https://suachuaminhduong.com/",
+  "telephone": "+84967015688",
+  "email": "suachuaminhduong@gmail.com",
+  "priceRange": "150.000đ - 2.200.000đ",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "59 Đ. Quang Lãm, Quang Lãm, Phú Lương",
+    "addressLocality": "Hà Nội",
+    "addressRegion": "Hà Nội",
+    "postalCode": "100000",
+    "addressCountry": "VN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 20.9445994,
+    "longitude": 105.7609329
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "07:00",
+      "closes": "20:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "07:00",
+      "closes": "22:00"
+    }
+  ],
+  "sameAs": [
+    "https://www.google.com/maps/place/S%E1%BB%ADa+Ch%E1%BB%AFa+Minh+D%C6%B0%C6%A1ng/@20.9445994,105.758358,17z/data=!4m14!1m7!3m6!1s0x8589ebe7b9160a47:0x93ccd80850daa4a5!2zU-G7rWEgQ2jhu69hIE1pbmggRMawxqFuZw!8m2!3d20.9445994!4d105.7609329!16s%2Fg%2F11yqwjdrw0!3m5!1s0x8589ebe7b9160a47:0x93ccd80850daa4a5!8m2!3d20.9445994!4d105.7609329!16s%2Fg%2F11yqwjdrw0",
+    "https://sites.google.com/view/suachuaminhduong/",
+    "https://drive.google.com/drive/folders/1rSIOQ9m842tzTu-u8V7L2DduKz2wiHbx",
+    "https://docs.google.com/document/d/1GFDU_0ggh9MoU82tJLwVZbxFfry7fv-Rpr8qCJZBGTc/view",
+    "https://docs.google.com/spreadsheets/d/1Hc1ReAG5M3JsUZKM9VBsQ12rKIRl6CrMIgjMryhBIaE/view",
+    "https://docs.google.com/presentation/d/1bLHgHoCmH2egC9z3ekd4PclO0xNFCDJyFIrY95WhIpU/view",
+    "https://docs.google.com/forms/d/e/1FAIpQLSfJpX8cW-FDbS0XYQMpls0taowHCbyaDkkvrVlXPSAn_m1zoA/viewform",
+    "https://www.google.com/maps/d/viewer?mid=1sfXx0OOjVfF77qbInJJvEjJXjB7jtT4",
+    "https://open.spotify.com/show/2qkstIMVuWXXGF9NlzSAS9",
+    "https://anchor.fm/s/10cbce190/podcast/rss",
+    "https://music.amazon.com/podcasts/08e0b54b-d353-4018-92dd-52d7b7fc1bab",
+    "https://music.amazon.co.uk/podcasts/08e0b54b-d353-4018-92dd-52d7b7fc1bab",
+    "https://www.podchaser.com/podcasts/sua-chua-minh-duong-6662125",
+    "https://castbox.fm/channel/id7475961?country=vn",
+    "https://addons.mozilla.org/vi/firefox/addon/sua-chua-minh-duong-tai-ha-noi/",
+    "https://addons.mozilla.org/en-US/firefox/addon/sua-chua-minh-duong-tai-ha-noi/",
+    "https://music.amazon.co.uk/podcasts/08e0b54b-d353-4018-92dd-52d7b7fc1bab",
+    "https://music.amazon.de/podcasts/08e0b54b-d353-4018-92dd-52d7b7fc1bab",
+    "https://music.amazon.fr/podcasts/08e0b54b-d353-4018-92dd-52d7b7fc1bab",
+    "https://music.amazon.co.jp/podcasts/08e0b54b-d353-4018-92dd-52d7b7fc1bab",
+    "https://music.amazon.ca/podcasts/08e0b54b-d353-4018-92dd-52d7b7fc1bab",
+    "https://music.amazon.com.au/podcasts/08e0b54b-d353-4018-92dd-52d7b7fc1bab",
+    "https://music.amazon.es/podcasts/08e0b54b-d353-4018-92dd-52d7b7fc1bab",
+    "https://music.amazon.it/podcasts/08e0b54b-d353-4018-92dd-52d7b7fc1bab",
+    "https://music.amazon.com.br/podcasts/08e0b54b-d353-4018-92dd-52d7b7fc1bab",
+    "https://music.amazon.com.mx/podcasts/08e0b54b-d353-4018-92dd-52d7b7fc1bab",
+    "https://music.amazon.in/podcasts/08e0b54b-d353-4018-92dd-52d7b7fc1bab"
+  ]
+}
